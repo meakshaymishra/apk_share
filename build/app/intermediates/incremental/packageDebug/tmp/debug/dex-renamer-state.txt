@@ -1,0 +1,4 @@
+#Wed Jul 15 16:24:20 IST 2020
+base.0=F\:\\Workspace\\android-projects\\flutter\\reverse-search\\apk_share\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
